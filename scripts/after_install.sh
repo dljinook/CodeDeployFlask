@@ -17,4 +17,4 @@ chown -R ubuntu /home/ubuntu/ssgRecipeBook-flask-backend
 
 
 echo ">>> run app --------------------------"
-python3 app/__init__.py
+python3 app.py
