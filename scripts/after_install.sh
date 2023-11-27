@@ -21,4 +21,4 @@ ls -al / | grep find app.py
 
 
 echo ">>> run app --------------------------"
-python3 app.py
+python3 app/__init__.py
