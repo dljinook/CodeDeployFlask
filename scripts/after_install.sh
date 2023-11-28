@@ -16,9 +16,5 @@ echo ">>> change owner to ubuntu -----------"
 chown -R ubuntu /home/ubuntu/ssgRecipeBook-flask-backend
 
 
-ls -al
-ls -al / | grep find app.py
-
-
 echo ">>> run app --------------------------"
 python3 app/__init__.py
